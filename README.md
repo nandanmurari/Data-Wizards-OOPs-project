@@ -9,14 +9,31 @@ By :
 	
 Oopsdeal is a Java-based eCommerce application built using Object-Oriented Programming principles. The project allows users to browse products, manage their shopping cart, apply discount coupons, and place orders.
 
-Instructions to Run the Project
+Libraries Used here are : 
+
+javax.swing
+Provides components for building graphical user interfaces (GUIs) in Java, including classes like JFrame, JPanel, JLabel, JButton, and JTextField.
+
+javax.swing.border.LineBorder
+Used for customizing borders of components, such as buttons, to enhance visual styling.
+
+java.awt
+Includes layout managers (BorderLayout, GridLayout), color management (Color), and fonts (Font) for building and styling the user interface.
+
+java.util.Map
+Interface for storing key-value pairs, used to map products to their quantities in the cart.
+
+java.util.HashMap
+Implementation of the Map interface, used for efficient management of products and their quantities in the cart.
+
+Instructions to Run the Project :-
 
 1.      Downloading the Java File(.java) : - 
 •	Download the file to your local system.
 
 2.      Install Java:
 •	Ensure that Java 8 or higher is installed on your system.
-•	You can download Java from here (if not already installed).
+•	You can download Java from the internet for free within minutes.
 
 3.      Set Up the Project:
 •	Open the project in an IDE like IntelliJ IDEA, Eclipse, or NetBeans (or)
