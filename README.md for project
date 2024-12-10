@@ -33,12 +33,10 @@ o	Open a terminal/command prompt.
 o	Navigate to the project directory where the Java files are located.
 
 6.	Compile the Java files:
-
          Copy code and run
          javac OopsdealApp.java
 
 7.	Run the application:
-
         Copy code and run 
         java OopsdealApp
 
